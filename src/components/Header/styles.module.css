@@ -1,0 +1,58 @@
+.header {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* label {
+    position: relative;
+}
+
+label:after {
+    content: 'Enter the city name such as Kyiv, Poltava, Lviv, Odesa';
+    color: #e21c02;
+    font-size: 1.25rem;
+    position: absolute;
+    left: 15px;
+    bottom: 0px;    
+} */
+
+input{
+    background-color: inherit;
+    border: none;    
+    outline: none;
+    padding: 8px 15px;
+}
+
+input[type = 'text'] {    
+    border-bottom: 2px solid #e21c02;
+    color: #e21c02;
+    font-size: 1.25rem;   
+    margin-right: 15px;
+    padding-top: 20px;
+    width: 50%;
+}
+
+input[type = 'submit'] {    
+    background-color: #e21c02;
+    border: 2px solid #e21c02;
+    cursor: pointer;
+    color: #fff;
+    transition: all 0.4s;
+}
+
+input[type = 'submit']:hover {    
+    filter: brightness(90%);
+}
+
+input[type = 'text']::placeholder {    
+    color: #e21c02;
+    font-size: 1rem;
+    opacity: 0.5;
+    transition: all 0.4s;
+}
+
+input[type = 'text']:focus::placeholder{    
+    transform: translate(0, -25px) ;
+    font-size: 0.8rem;
+}

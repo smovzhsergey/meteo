@@ -5,7 +5,7 @@ const getWeather = async (city, type) => {
 
     try {
 
-        const url = `${api}${type}?q=${city}${apiKey}&lang=ua`;
+        const url = `${api}${type}?q=${city}${apiKey}`;
         const response = await fetch(url, {
             method: 'GET'
         });
@@ -29,6 +29,7 @@ const getWeather = async (city, type) => {
     }
 
 }
+
 
 export { getWeather };
 

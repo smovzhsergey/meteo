@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.8acf0a74.chunk.css",
-  "main.js": "/static/js/main.2ebc9b19.chunk.js",
-  "main.js.map": "/static/js/main.2ebc9b19.chunk.js.map",
+  "main.css": "/static/css/main.e9175a3d.chunk.css",
+  "main.js": "/static/js/main.70eb4fc4.chunk.js",
+  "main.js.map": "/static/js/main.70eb4fc4.chunk.js.map",
   "static/js/1.9b4120a4.chunk.js": "/static/js/1.9b4120a4.chunk.js",
   "static/js/1.9b4120a4.chunk.js.map": "/static/js/1.9b4120a4.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -11,8 +11,8 @@
   "static/media/wind.1ca0acb5.svg": "/static/media/wind.1ca0acb5.svg",
   "static/media/windDirect.3d951aa2.svg": "/static/media/windDirect.3d951aa2.svg",
   "static/media/pressure.a857bf4a.svg": "/static/media/pressure.a857bf4a.svg",
-  "static/css/main.8acf0a74.chunk.css.map": "/static/css/main.8acf0a74.chunk.css.map",
+  "static/css/main.e9175a3d.chunk.css.map": "/static/css/main.e9175a3d.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.1f4c4777bfde851b96b6a3d57e9d7d27.js": "/precache-manifest.1f4c4777bfde851b96b6a3d57e9d7d27.js",
+  "precache-manifest.9aac36795f250592fe2b7705e113e061.js": "/precache-manifest.9aac36795f250592fe2b7705e113e061.js",
   "service-worker.js": "/service-worker.js"
 }

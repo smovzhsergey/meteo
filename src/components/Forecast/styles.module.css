@@ -1,0 +1,26 @@
+.wrap {
+    margin: 0 auto;
+    width: 60%;
+}
+
+.dayHeader td {    
+    font-weight: 700;
+    padding: 20px 0 10px 0;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.bottomBorderedRow td {    
+    border-bottom: thin solid #2f2f6f;
+    font-size: 0.75rem;
+}
+
+.topBorderedRow td {    
+    border-top: thin solid #2f2f6f;
+}
+
+td {
+    text-align: center;
+}

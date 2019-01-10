@@ -1,0 +1,14 @@
+.board {
+    width: 80%;
+    min-height: 100vh;
+    padding: 10px 30px 60px 30px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.bottom {    
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}

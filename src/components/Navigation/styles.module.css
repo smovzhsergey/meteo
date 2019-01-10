@@ -1,0 +1,21 @@
+.navWrap {
+    text-align: center;
+    font-size: 1.6rem;
+}
+
+a {
+    color: #2f2f6f;
+    margin: 0 25px;
+    text-decoration: none;
+    text-transform: none;
+    transition: color 0.3s linear;
+}
+
+a:hover {
+    color: #0202d6;
+}
+
+.activeLink {
+    border-bottom: 3px solid #0202d6;
+    color: #0202d6;    
+}
